@@ -1,0 +1,31 @@
+{
+  "subject": {
+    "desc": "Young adult female, tanned sun-kissed skin with glossy oily sheen, visible pores, dark brown hair in sleek tight bun",
+    "body": "Voluptuous hourglass, full heavy projecting bust, slim waist, wide hips, thick thighs, large dark floral tattoo on left upper thigh/hip",
+    "outfit": "Teal blue/yellow zigzag crochet knit bikini, triangle halter top, high-cut bottoms on hips",
+    "accessories": "Silver nameplate necklace, small stud earrings",
+    "face": "Closed eyes, relaxed serene expression, full lips, high cheekbones, head angled upward to sun"
+  },
+  "pose": {
+    "type": "Seated reclining, front-facing",
+    "support": "Leaning back, arms extended straight behind with locked elbows, hands flat on white cushion",
+    "legs": "Extended forward, knees slightly bent, thighs on surface",
+    "head_spine": "Head tilted back exposing neck, slight backward spine arch, shoulders back/down accentuating chest"
+  },
+  "environment": {
+    "setting": "Sunny luxury beach resort",
+    "surface": "Large white cushioned outdoor daybed",
+    "background": "White sand, edge of grey canopy top right"
+  },
+  "camera": {
+    "shot": "Medium-full from knees up, vertical 3:4",
+    "angle": "High slight down, slight leg foreshortening emphasizing upper body/hips",
+    "focus": "Sharp on torso/face, deep DOF with cushion texture clear, sand softer"
+  },
+  "lighting": "Harsh high-noon natural sunlight from overhead front-right, strong hard shadows behind on cushion, specular highlights on chest/shoulders/forehead, high contrast",
+  "mood": "Relaxed sensual blissful, eyes closed, mouth slightly open, summer vacation vibe",
+  "style": "Photorealistic candid lifestyle, raw unfiltered, high-detail crochet/skin textures",
+  "colors": "White cushion, bronze tan skin, vibrant teal/yellow bikini, warm daylight balance",
+  "quality": "High-res sharp, low noise, detailed knit/skin specularity",
+  "negative_prompt": "small/reduced/flattened bust, lifted breasts, slimmed torso/hips, proportion averaging, plastic/airbrushed/matte skin, missing tattoo, flat/low-contrast lighting, studio look"
+}
